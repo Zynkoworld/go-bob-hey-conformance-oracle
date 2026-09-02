@@ -1,0 +1,16 @@
+{"input": "Does this cryogenic chamber make me look fat?", "expect": "Sure.", "raised": false, "task": "bob", "lang": "go"}
+{"input": "WATCH OUT!", "expect": "Whoa, chill out!", "raised": false, "task": "bob", "lang": "go"}
+{"input": "", "expect": "Fine. Be that way!", "raised": false, "task": "bob", "lang": "go"}
+{"input": "Tom-ay-to, tom-aaaah-to.", "expect": "Whatever.", "raised": false, "task": "bob", "lang": "go"}
+{"input": "fffbbcbeab?", "expect": "Sure.", "raised": false, "task": "bob", "lang": "go"}
+{"input": ":) ?", "expect": "Sure.", "raised": false, "task": "bob", "lang": "go"}
+{"input": "Wait! Hang on. Are you going to be OK?", "expect": "Sure.", "raised": false, "task": "bob", "lang": "go"}
+{"input": "\nDoes this cryogenic chamber make\n me look fat?", "expect": "Sure.", "raised": false, "task": "bob", "lang": "go"}
+{"input": "DO LIONS EAT PEOPLE? AHHHHH.", "expect": "Whoa, chill out!", "raised": false, "task": "bob", "lang": "go"}
+{"input": "1, 2, 3 GO!", "expect": "Whoa, chill out!", "raised": false, "task": "bob", "lang": "go"}
+{"input": "I HATE THE DENTIST", "expect": "Whoa, chill out!", "raised": false, "task": "bob", "lang": "go"}
+{"input": "          ", "expect": "Fine. Be that way!", "raised": false, "task": "bob", "lang": "go"}
+{"input": "\n\r \t", "expect": "Fine. Be that way!", "raised": false, "task": "bob", "lang": "go"}
+{"input": "It's OK if you don't want to go work for NASA.", "expect": "Whatever.", "raised": false, "task": "bob", "lang": "go"}
+{"input": "1, 2, 3", "expect": "Whatever.", "raised": false, "task": "bob", "lang": "go"}
+{"input": "         hmmmmmmm...", "expect": "Whatever.", "raised": false, "task": "bob", "lang": "go"}
